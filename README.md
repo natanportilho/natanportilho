@@ -6,7 +6,7 @@ I'm a full stack developer from Brazil.
 - 👯 I have collaborated on these open source projects:[Flutter](https://github.com/flutter/flutter)
 , [Selenium Site](https://github.com/SeleniumHQ/seleniumhq.github.io)
 
-- 🌱 I’m currently learning Flutter and Angular.
+- 🌱 I’m currently learning [Flutter](https://flutter.dev/) and [Angular](https://angular.io/).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/natanportilho/)
 
 
