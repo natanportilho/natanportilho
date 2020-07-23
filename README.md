@@ -7,8 +7,7 @@ I'm a full stack developer from Brazil.
 , [Selenium Site](https://github.com/SeleniumHQ/seleniumhq.github.io)
 
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/) and [Angular](https://angular.io/).
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/natanportilho/)
-
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/natanportilho/), <a href="mailto:natanportilho@outlook.com">Email</a>
 
 <!--
 **natanportilho/natanportilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
