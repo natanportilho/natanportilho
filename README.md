@@ -4,10 +4,10 @@ I'm a full stack developer from Brazil.
 
 - 🔭 I’m currently working on Java and Typescript at SAP.
 - 👯 I have collaborated on these open source projects:[Flutter](https://github.com/flutter/flutter)
-, [Selenium Site](https://github.com/SeleniumHQ/seleniumhq.github.io)
+, [Selenium Site](https://github.com/SeleniumHQ/seleniumhq.github.io).
 
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/) and [Angular](https://angular.io/).
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/natanportilho/), <a href="mailto:natanportilho@outlook.com">Email</a>
+- 📫 How to reach me: <a href="mailto:natanportilho@outlook.com">Email</a>, [LinkedIn](https://www.linkedin.com/in/natanportilho/).
 
 <!--
 **natanportilho/natanportilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
