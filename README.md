@@ -3,7 +3,7 @@
 I'm a full stack developer from Brazil.
 
 - 🔭 I’m currently working on Java and Typescript at [SAP](https://www.sap.com/index.html).
-- 👯 I have collaborated on these open source projects:[Flutter](https://github.com/flutter/flutter)
+- 👯 I have collaborated on these open source projects: [Flutter](https://github.com/flutter/flutter)
 , [Selenium Site](https://github.com/SeleniumHQ/seleniumhq.github.io).
 
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/) and [Angular](https://angular.io/).
