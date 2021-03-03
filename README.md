@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-I'm a full stack developer from Brazil. Here you can find my personal projects :)
+I'm a full stack developer specialized in SAP Commerce (former Hybris) development. Here you can find my personal projects :)
 
-- 🔭 I’m currently working on Java and Typescript at [SAP](https://www.sap.com/index.html).
+- 🔭 I’m currently working remotely on SAP Commerce projects.
 - 👯 I have collaborated on these open source projects: [Flutter](https://github.com/flutter/flutter)
 , [Selenium Site](https://github.com/SeleniumHQ/seleniumhq.github.io).
 
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/) and [Angular](https://angular.io/).
 - 📫 How to reach me: <a href="mailto:natanportilho@outlook.com">Email</a>, [LinkedIn](https://www.linkedin.com/in/natanportilho/).
 
 <!--
