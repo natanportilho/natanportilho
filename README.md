@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a backend developer with 5 years of experience with Java and the Spring framework. Here you can find my personal projects :)
+I'm an backend developer with 5 years of experience with Java and the Spring framework. Here you can find my personal projects :)
 
 - 🔭 I’m currently working remotely on a Microservices Application.
 - 👯 I have collaborated on these open source projects: [Flutter](https://github.com/flutter/flutter)
