@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a full stack developer specialized in SAP Commerce (former Hybris) development. Here you can find my personal projects :)
+I'm a backend developer with 5 years of experience with Java and the Spring framework. Here you can find my personal projects :)
 
-- 🔭 I’m currently working remotely on SAP Commerce projects.
+- 🔭 I’m currently working remotely on a Microservices Application.
 - 👯 I have collaborated on these open source projects: [Flutter](https://github.com/flutter/flutter)
 , [Selenium Site](https://github.com/SeleniumHQ/seleniumhq.github.io).
 
