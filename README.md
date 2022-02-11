@@ -2,7 +2,7 @@
 
 I'm a backend developer with more than 5 years of experience with Java and the Spring framework. Here you can find my personal projects :)
 
-- 🔭 I’m currently working remotely on a Microservices Application. (That's a private repo on Bitbucket!)
+- 🔭 I’m currently working remotely on a Microservices Application.
 - 👯 I have collaborated on these open source projects: [Flutter](https://github.com/flutter/flutter)
 , [Selenium Site](https://github.com/SeleniumHQ/seleniumhq.github.io).
 
